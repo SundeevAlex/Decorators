@@ -34,4 +34,5 @@ def get_rand_number():
     return random.randint(100, 200) / random.randint(1, 100)
 
 
+
 print(get_rand_number())
